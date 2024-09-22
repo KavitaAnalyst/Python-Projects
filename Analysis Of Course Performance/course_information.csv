@@ -1,0 +1,601 @@
+﻿Course_ID,Course_Name,Course_Category,Course_Level,Course_Duration,Course_Credits,Instructor_Name,Enrollment_Date,Completion_Date,Course_Status,Connect_ID
+54576,Painting Techniques,Physical Education,Beginner,6,3,David Hernandez,2024-04-20 08:31:48,2024-06-30 08:31:48,Completed,ORG_0
+82476,Musical Theory,Humanities,Advanced,12,3,Michael Martinez,2023-10-17 08:31:48,,In Progress,ORG_1
+66683,World History,Music,Beginner,12,4,Olivia Jones,2024-03-07 08:31:48,2024-04-21 08:31:48,Completed,ORG_2
+24275,English Literature,Science,Advanced,12,,James Martinez,2024-08-12 08:31:48,2024-10-14 08:31:48,Completed,ORG_3
+55807,World History,Science,Advanced,6,4,Ava Williams,2024-01-10 08:31:48,,Not Started,ORG_4
+80748,Physical Fitness,Science,Intermediate,6,2,John Davis,2024-06-22 08:31:48,,Not Started,ORG_5
+38358,Mathematics Basics,Science,Intermediate,6,,Mia Davis,2024-04-14 08:31:48,,In Progress,ORG_6
+63876,Mathematics Basics,Humanities,Beginner,8,4,Olivia Hernandez,2024-03-13 08:31:48,2024-05-22 08:31:48,Completed,ORG_7
+72980,World History,Physical Education,Intermediate,6,3,John Davis,2024-02-09 08:31:48,,Not Started,ORG_8
+20916,English Literature,Physical Education,Advanced,12,1,William Garcia,2023-12-03 08:31:48,,In Progress,ORG_9
+38951,Musical Theory,Math,Beginner,8,1,James Johnson,2024-02-29 08:31:48,2024-04-17 08:31:48,Completed,ORG_10
+89560,Physical Fitness,Music,Beginner,6,1,John Garcia,2024-07-03 08:31:48,,Not Started,ORG_11
+72884,Musical Theory,Music,Intermediate,12,3,Michael Hernandez,2024-03-17 08:31:48,,In Progress,ORG_12
+13806,Physical Fitness,Music,Intermediate,8,,,2024-08-24 08:31:48,,Not Started,ORG_13
+80223,World History,Arts,Intermediate,12,2,Ava Williams,2024-07-02 08:31:48,,In Progress,ORG_14
+58266,Physical Fitness,Physical Education,Advanced,12,3,Olivia Williams,2023-11-28 08:31:48,2024-01-07 08:31:48,Completed,ORG_15
+29354,Painting Techniques,Arts,Intermediate,12,4,John Williams,2024-03-13 08:31:48,,In Progress,ORG_16
+33790,Mathematics Basics,Arts,Intermediate,12,2,Sophia Brown,2023-12-02 08:31:48,2024-02-16 08:31:48,Completed,ORG_17
+55016,,Humanities,Advanced,4,3,David Martinez,2024-05-31 08:31:48,,In Progress,ORG_18
+70817,Physics 101,Physical Education,Intermediate,12,3,Michael Johnson,2024-01-09 08:31:48,,Not Started,ORG_19
+69979,Physics 101,Science,Intermediate,8,4,Ava Jones,2023-11-26 08:31:48,,In Progress,ORG_20
+63577,Painting Techniques,Humanities,Beginner,12,2,Ava Jones,2024-06-27 08:31:48,,Not Started,ORG_21
+37629,Physical Fitness,Arts,Advanced,6,,Emma Williams,2024-02-14 08:31:48,,Not Started,ORG_22
+58333,Physical Fitness,Math,Advanced,8,4,David Miller,2023-11-16 08:31:48,2023-12-24 08:31:48,Completed,ORG_23
+61802,Painting Techniques,Science,Advanced,8,1,Robert Jones,2023-10-28 08:31:48,,In Progress,ORG_24
+64806,Mathematics Basics,Humanities,Intermediate,4,1,,2023-10-21 08:31:48,2024-01-05 08:31:48,Completed,ORG_25
+66104,Painting Techniques,Music,Advanced,6,,James Brown,2024-07-31 08:31:48,,In Progress,ORG_26
+22900,World History,Math,Beginner,12,3,Emma Miller,2023-11-27 08:31:48,,In Progress,ORG_27
+15117,Physical Fitness,Arts,Advanced,6,1,Mia Hernandez,2023-11-11 08:31:48,,In Progress,ORG_28
+33451,Physical Fitness,Science,Intermediate,4,3,Olivia Hernandez,2024-08-10 08:31:48,,Not Started,ORG_29
+99096,Painting Techniques,Physical Education,Intermediate,6,4,Robert Davis,2024-09-18 08:31:48,2024-11-05 08:31:48,Completed,ORG_30
+42299,World History,Science,Advanced,8,2,Mia Miller,2023-09-23 08:31:48,,Not Started,ORG_31
+95109,English Literature,Arts,Beginner,6,,Robert Hernandez,,,Not Started,ORG_32
+92496,Physical Fitness,Arts,Advanced,6,4,Michael Hernandez,2024-01-13 08:31:48,,Not Started,ORG_33
+11276,Painting Techniques,Humanities,Intermediate,12,4,William Brown,2024-07-19 08:31:48,,In Progress,ORG_34
+17475,Painting Techniques,Science,Intermediate,4,,Michael Davis,2024-01-12 08:31:48,2024-03-12 08:31:48,Completed,ORG_35
+96672,Musical Theory,Music,Advanced,6,1,Isabella Brown,2023-11-09 08:31:48,,In Progress,ORG_36
+54568,World History,Arts,Advanced,6,,Robert Williams,2024-06-16 08:31:48,,In Progress,ORG_37
+87471,,Music,Intermediate,6,4,William Williams,2024-09-09 08:31:48,,Not Started,ORG_38
+38295,English Literature,,Advanced,12,1,Michael Smith,,,Not Started,ORG_39
+85815,World History,Physical Education,Intermediate,12,2,Olivia Williams,2024-02-18 08:31:48,2024-05-08 08:31:48,Completed,ORG_40
+33961,Physical Fitness,Science,Intermediate,12,2,William Miller,2024-04-26 08:31:48,,In Progress,ORG_41
+73955,Physical Fitness,Music,Advanced,8,3,Emma Davis,2024-02-05 08:31:48,2024-03-09 08:31:48,Completed,ORG_42
+31100,Physics 101,Physical Education,Advanced,12,4,Sophia Smith,2024-09-08 08:31:48,2024-10-20 08:31:48,Completed,ORG_43
+70482,Physics 101,Music,Advanced,6,2,Isabella Smith,2024-06-04 08:31:48,2024-08-18 08:31:48,Completed,ORG_44
+71655,World History,Math,Beginner,8,4,Michael Johnson,2023-11-23 08:31:48,2024-01-05 08:31:48,Completed,ORG_45
+84331,Painting Techniques,Arts,Intermediate,4,3,Mia Smith,2024-04-18 08:31:48,,Not Started,ORG_46
+32556,World History,Arts,Advanced,8,,Mia Davis,2023-11-08 08:31:48,,Not Started,ORG_47
+75260,World History,Music,Advanced,12,,John Williams,2024-05-19 08:31:48,2024-06-24 08:31:48,Completed,ORG_48
+29187,Physical Fitness,Humanities,Intermediate,12,3,Emma Jones,2023-11-24 08:31:48,,In Progress,ORG_49
+55951,Musical Theory,,Advanced,12,3,John Brown,2024-08-11 08:31:48,,In Progress,ORG_50
+61941,World History,Physical Education,Advanced,8,3,Emma Brown,,2024-06-02 08:31:48,Completed,ORG_51
+22488,World History,Arts,Beginner,8,4,Isabella Jones,2024-05-26 08:31:48,,In Progress,ORG_52
+27271,Physics 101,Physical Education,Advanced,12,,William Martinez,2024-05-03 08:31:48,,In Progress,ORG_53
+16028,Musical Theory,Music,Advanced,8,2,William Smith,2024-04-17 08:31:48,,In Progress,ORG_54
+14048,Physical Fitness,Humanities,Intermediate,12,4,Robert Davis,2024-04-26 08:31:48,2024-06-01 08:31:48,Completed,ORG_55
+21644,World History,Physical Education,Beginner,12,,James Miller,,,In Progress,ORG_56
+42463,English Literature,Physical Education,Intermediate,6,1,Mia Johnson,,,In Progress,ORG_57
+81761,Musical Theory,Science,Advanced,6,3,James Davis,2023-11-14 08:31:48,2024-02-03 08:31:48,Completed,ORG_58
+27115,Mathematics Basics,Arts,Intermediate,4,1,Isabella Williams,2023-12-14 08:31:48,,Not Started,ORG_59
+57812,Physical Fitness,Humanities,Beginner,6,3,Ava Hernandez,2023-11-25 08:31:48,2024-02-02 08:31:48,Completed,ORG_60
+74451,Physics 101,Arts,Intermediate,8,2,Mia Brown,2023-12-22 08:31:48,,Not Started,ORG_61
+44701,Painting Techniques,Humanities,Advanced,6,4,David Brown,,,In Progress,ORG_62
+43940,World History,,Advanced,4,4,Michael Johnson,2023-12-19 08:31:48,,Not Started,ORG_63
+48050,Mathematics Basics,Humanities,Advanced,4,1,Mia Martinez,2023-09-27 08:31:48,,Not Started,ORG_64
+61125,Painting Techniques,Science,Beginner,8,,Isabella Williams,2024-03-06 08:31:48,,In Progress,ORG_65
+61761,Musical Theory,Math,Beginner,,2,Isabella Brown,2024-02-17 08:31:48,2024-04-27 08:31:48,Completed,ORG_66
+55527,World History,Music,Beginner,12,3,David Williams,2024-02-21 08:31:48,2024-03-24 08:31:48,Completed,ORG_67
+52573,Musical Theory,Arts,Intermediate,12,3,Emma Jones,2024-03-30 08:31:48,2024-06-23 08:31:48,Completed,ORG_68
+91231,English Literature,Physical Education,Intermediate,8,1,David Brown,2024-09-12 08:31:48,,In Progress,ORG_69
+32828,Musical Theory,Physical Education,Advanced,6,1,John Davis,2024-01-31 08:31:48,,Not Started,ORG_70
+53879,Mathematics Basics,Science,Advanced,8,2,James Jones,2024-04-03 08:31:48,,Not Started,ORG_71
+49169,World History,Science,Intermediate,12,1,Ava Hernandez,2023-11-17 08:31:48,2024-02-14 08:31:48,Completed,ORG_72
+45277,English Literature,Music,Advanced,8,2,Isabella Miller,2024-05-09 08:31:48,2024-07-07 08:31:48,Completed,ORG_73
+20514,Musical Theory,Science,Intermediate,12,4,Isabella Martinez,2023-12-26 08:31:48,,Not Started,ORG_74
+52618,World History,Humanities,Intermediate,4,,David Martinez,2024-03-12 08:31:48,,Not Started,ORG_75
+13323,Physical Fitness,Music,Intermediate,8,1,James Martinez,2024-09-11 08:31:48,,In Progress,ORG_76
+34368,English Literature,Math,Intermediate,8,1,James Brown,2023-11-27 08:31:48,,Not Started,ORG_77
+78425,Musical Theory,Humanities,Intermediate,4,1,Robert Martinez,2024-08-13 08:31:48,,In Progress,ORG_78
+83045,Musical Theory,Physical Education,Advanced,12,3,David Smith,2024-03-07 08:31:48,2024-05-08 08:31:48,Completed,ORG_79
+96090,Musical Theory,,Intermediate,6,4,John Smith,2024-06-03 08:31:48,,In Progress,ORG_80
+35961,Musical Theory,Humanities,Intermediate,6,4,David Hernandez,2023-12-31 08:31:48,2024-03-09 08:31:48,Completed,ORG_81
+29934,Painting Techniques,Music,Beginner,6,2,Emma Brown,2023-10-04 08:31:48,,Not Started,ORG_82
+12232,World History,Math,Advanced,4,3,William Jones,2023-10-30 08:31:48,,In Progress,ORG_83
+11777,Mathematics Basics,Arts,Beginner,12,,Robert Miller,2024-02-04 08:31:48,2024-05-01 08:31:48,Completed,ORG_84
+89558,Mathematics Basics,Science,Beginner,6,4,Olivia Miller,2024-04-26 08:31:48,,In Progress,ORG_85
+79251,Physics 101,Math,Intermediate,12,3,Emma Hernandez,2024-01-30 08:31:48,,In Progress,ORG_86
+57133,English Literature,Humanities,Advanced,4,4,James Johnson,2024-02-07 08:31:48,,In Progress,ORG_87
+38391,World History,Science,Beginner,12,3,David Brown,2024-08-09 08:31:48,,Not Started,ORG_88
+58063,Mathematics Basics,Music,Intermediate,6,1,David Jones,2024-05-31 08:31:48,,Not Started,ORG_89
+62172,Mathematics Basics,Science,Beginner,6,2,Isabella Garcia,2024-01-02 08:31:48,,In Progress,ORG_90
+58229,English Literature,Physical Education,Advanced,12,1,Isabella Martinez,2024-09-07 08:31:48,2024-11-03 08:31:48,Completed,ORG_91
+36812,Musical Theory,Math,Beginner,6,1,Sophia Hernandez,2023-09-28 08:31:48,2023-11-08 08:31:48,Completed,ORG_92
+61078,Physics 101,Math,Intermediate,12,4,Robert Davis,2024-03-29 08:31:48,2024-06-04 08:31:48,Completed,ORG_93
+94495,Physical Fitness,Humanities,Advanced,4,1,Robert Jones,2024-05-15 08:31:48,,Not Started,ORG_94
+60695,Painting Techniques,Arts,Intermediate,4,3,James Davis,2023-12-24 08:31:48,2024-03-13 08:31:48,Completed,ORG_95
+97023,,Arts,Beginner,4,,Isabella Brown,2024-08-28 08:31:48,,Not Started,ORG_96
+82687,Mathematics Basics,Music,Advanced,6,,Emma Garcia,2024-05-27 08:31:48,2024-08-03 08:31:48,Completed,ORG_97
+70459,Musical Theory,Music,Advanced,6,4,David Williams,2024-03-13 08:31:48,,Not Started,ORG_98
+62691,English Literature,Humanities,Beginner,4,1,William Johnson,2024-03-18 08:31:48,2024-06-14 08:31:48,Completed,ORG_99
+19271,Physical Fitness,Arts,Beginner,8,3,Ava Hernandez,2024-04-17 08:31:48,,In Progress,ORG_100
+35160,English Literature,Math,Intermediate,6,4,Michael Garcia,2024-04-27 08:31:48,,In Progress,ORG_101
+39791,Musical Theory,Music,Advanced,12,4,Robert Brown,2024-07-18 08:31:48,,Not Started,ORG_102
+57357,Mathematics Basics,Science,Advanced,,3,Michael Jones,2024-01-12 08:31:48,,In Progress,ORG_103
+21527,World History,Science,Beginner,6,4,Isabella Miller,2024-06-21 08:31:48,2024-08-29 08:31:48,Completed,ORG_104
+83692,English Literature,Physical Education,Beginner,6,4,James Smith,2024-05-11 08:31:48,2024-07-23 08:31:48,Completed,ORG_105
+45277,Musical Theory,Physical Education,Intermediate,8,2,Isabella Brown,2024-03-21 08:31:48,,In Progress,ORG_106
+72104,Painting Techniques,Humanities,Beginner,4,2,Sophia Brown,2024-01-29 08:31:48,,In Progress,ORG_107
+10582,Physical Fitness,Music,Intermediate,6,4,James Martinez,2023-11-05 08:31:48,,Not Started,ORG_108
+14595,Musical Theory,Math,Intermediate,8,2,William Miller,2024-03-24 08:31:48,,In Progress,ORG_109
+10811,Musical Theory,Music,Advanced,8,1,Ava Davis,2023-12-14 08:31:48,,In Progress,ORG_110
+77747,Physics 101,Math,Advanced,6,1,Emma Jones,2023-12-10 08:31:48,,In Progress,ORG_111
+54995,Mathematics Basics,Physical Education,Intermediate,12,1,Emma Hernandez,2023-10-20 08:31:48,,In Progress,ORG_112
+69592,Mathematics Basics,Humanities,Advanced,8,4,James Miller,2024-08-26 08:31:48,2024-10-10 08:31:48,Completed,ORG_113
+28113,Painting Techniques,Humanities,Beginner,4,2,Mia Johnson,2023-10-31 08:31:48,,Not Started,ORG_114
+54518,Painting Techniques,Music,Advanced,6,,Emma Smith,2024-03-05 08:31:48,,Completed,ORG_115
+55219,World History,Physical Education,Advanced,4,3,Ava Martinez,2024-05-25 08:31:48,,Not Started,ORG_116
+24637,Physics 101,Math,Intermediate,6,1,Emma Martinez,2024-08-14 08:31:48,2024-09-19 08:31:48,Completed,ORG_117
+48635,English Literature,Physical Education,Advanced,4,2,Ava Davis,2023-10-16 08:31:48,,Not Started,ORG_118
+43220,Physics 101,Arts,Advanced,12,1,Ava Jones,2024-06-21 08:31:48,2024-07-31 08:31:48,Completed,ORG_119
+48322,Painting Techniques,Humanities,Advanced,6,1,David Martinez,2023-10-30 08:31:48,,In Progress,ORG_120
+84720,Mathematics Basics,Math,Intermediate,8,1,Mia Davis,2024-08-27 08:31:48,,Not Started,ORG_121
+84234,Musical Theory,Humanities,Intermediate,6,1,Mia Hernandez,2024-07-28 08:31:48,2024-10-06 08:31:48,Completed,ORG_122
+76874,Musical Theory,Humanities,Beginner,4,,Emma Williams,2024-09-12 08:31:48,,Not Started,ORG_123
+51060,Mathematics Basics,Arts,Advanced,6,2,John Jones,2024-03-28 08:31:48,,Not Started,ORG_124
+13299,Physics 101,Math,Intermediate,,3,,2024-02-21 08:31:48,,In Progress,ORG_125
+28978,Physical Fitness,Math,Advanced,6,4,Mia Johnson,2023-10-01 08:31:48,,In Progress,ORG_126
+81682,Physical Fitness,Physical Education,Intermediate,6,4,Olivia Johnson,2024-02-24 08:31:48,,In Progress,ORG_127
+73140,Physical Fitness,Physical Education,Advanced,6,2,David Smith,2024-09-08 08:31:48,2024-10-15 08:31:48,Completed,ORG_128
+59361,Physics 101,Math,Intermediate,4,4,Olivia Jones,2024-05-20 08:31:48,2024-07-26 08:31:48,Completed,ORG_129
+95644,Mathematics Basics,Physical Education,Intermediate,12,3,Robert Hernandez,2024-05-11 08:31:48,,In Progress,ORG_130
+83176,Physics 101,Math,Advanced,8,2,Michael Garcia,2024-04-27 08:31:48,2024-07-02 08:31:48,Completed,ORG_131
+10916,Physical Fitness,Physical Education,Advanced,4,4,William Martinez,2024-02-05 08:31:48,,In Progress,ORG_132
+39707,Musical Theory,Physical Education,Advanced,,,William Smith,2024-03-17 08:31:48,2024-05-29 08:31:48,Completed,ORG_133
+19857,Musical Theory,Science,Advanced,12,,William Jones,2024-07-19 08:31:48,,Not Started,ORG_134
+37667,Physical Fitness,Physical Education,Beginner,12,3,William Garcia,2023-10-25 08:31:48,,Not Started,ORG_135
+31338,Mathematics Basics,Physical Education,Advanced,12,1,Mia Brown,2024-08-11 08:31:48,2024-10-12 08:31:48,Completed,ORG_136
+43642,World History,Music,Intermediate,8,4,James Williams,2023-11-30 08:31:48,,In Progress,ORG_137
+51983,Painting Techniques,Science,Beginner,4,1,Olivia Davis,2023-10-06 08:31:48,,Not Started,ORG_138
+21144,Musical Theory,Music,Advanced,4,1,John Martinez,2024-05-04 08:31:48,,Not Started,ORG_139
+32206,Mathematics Basics,Music,Advanced,4,1,William Brown,2024-01-05 08:31:48,2024-02-06 08:31:48,Completed,ORG_140
+48723,World History,Music,Intermediate,4,1,Olivia Johnson,2024-01-19 08:31:48,2024-03-31 08:31:48,Completed,ORG_141
+15993,Painting Techniques,Arts,Beginner,8,,Sophia Miller,2024-06-27 08:31:48,,In Progress,ORG_142
+65287,Musical Theory,Science,Advanced,8,,Mia Miller,2024-03-28 08:31:48,,In Progress,ORG_143
+80250,Painting Techniques,Math,Advanced,4,2,Sophia Miller,2023-10-12 08:31:48,,Completed,ORG_144
+27425,Musical Theory,Arts,Advanced,6,2,Mia Smith,2024-03-26 08:31:48,,In Progress,ORG_145
+97162,Physics 101,Music,Beginner,8,4,Robert Jones,2024-01-26 08:31:48,2024-04-17 08:31:48,Completed,ORG_146
+78634,Physical Fitness,Music,Intermediate,6,4,Emma Jones,2024-06-23 08:31:48,,Not Started,ORG_147
+95342,Painting Techniques,Music,Beginner,,4,John Miller,2023-10-18 08:31:48,,Not Started,ORG_148
+13907,Musical Theory,Science,Beginner,,2,Mia Williams,2024-01-03 08:31:48,,Not Started,ORG_149
+90513,Physics 101,Arts,Intermediate,12,2,William Garcia,2024-08-20 08:31:48,2024-10-23 08:31:48,Completed,ORG_150
+82495,Mathematics Basics,Arts,Intermediate,8,4,Robert Brown,2023-10-22 08:31:48,2023-12-12 08:31:48,Completed,ORG_151
+33929,Physical Fitness,Music,Advanced,6,3,James Martinez,2023-11-24 08:31:48,,Not Started,ORG_152
+18050,English Literature,Physical Education,Intermediate,12,1,,2024-01-04 08:31:48,,Not Started,ORG_153
+79992,Painting Techniques,Music,Intermediate,12,,James Martinez,2024-01-11 08:31:48,,In Progress,ORG_154
+60410,,Physical Education,Beginner,12,,David Brown,2024-08-19 08:31:48,,In Progress,ORG_155
+34753,Physical Fitness,Music,Beginner,6,3,,2024-03-15 08:31:48,,Not Started,ORG_156
+87006,Mathematics Basics,Physical Education,Advanced,8,2,Emma Miller,2024-04-11 08:31:48,2024-06-07 08:31:48,Completed,ORG_157
+71010,World History,Humanities,Beginner,6,4,James Jones,2024-09-02 08:31:48,2024-11-13 08:31:48,Completed,ORG_158
+94071,,Arts,Advanced,4,4,Sophia Jones,2024-05-23 08:31:48,,Not Started,ORG_159
+93606,,Humanities,Intermediate,6,1,James Johnson,2024-01-17 08:31:48,,Not Started,ORG_160
+66336,World History,Humanities,Advanced,6,4,James Davis,2024-03-18 08:31:48,,Not Started,ORG_161
+25822,Mathematics Basics,Math,Beginner,12,3,Emma Garcia,2024-03-22 08:31:48,,Not Started,ORG_162
+93783,English Literature,Science,Intermediate,12,3,Mia Garcia,2023-11-10 08:31:48,2024-01-27 08:31:48,Completed,ORG_163
+47271,World History,Physical Education,Beginner,4,2,Mia Williams,2024-01-15 08:31:48,2024-03-13 08:31:48,Completed,ORG_164
+35630,World History,Music,Advanced,12,3,John Jones,2024-08-01 08:31:48,2024-10-29 08:31:48,Completed,ORG_165
+98446,Physics 101,Math,Advanced,8,1,David Davis,2024-01-17 08:31:48,,Not Started,ORG_166
+54128,Mathematics Basics,Physical Education,Advanced,4,4,Robert Williams,2024-01-19 08:31:48,,Not Started,ORG_167
+97703,Physical Fitness,Humanities,Advanced,8,3,John Johnson,2024-04-21 08:31:48,2024-07-06 08:31:48,Completed,ORG_168
+89211,Painting Techniques,Physical Education,Beginner,6,1,Olivia Williams,2024-06-09 08:31:48,,Not Started,ORG_169
+95103,Physics 101,Music,Beginner,8,4,Ava Davis,2024-04-03 08:31:48,,In Progress,ORG_170
+25523,English Literature,Arts,Intermediate,4,2,Isabella Garcia,2024-02-09 08:31:48,,Not Started,ORG_171
+78317,World History,Physical Education,Intermediate,6,2,Isabella Brown,2024-06-01 08:31:48,,In Progress,ORG_172
+44130,Painting Techniques,Humanities,Advanced,8,2,James Miller,2023-12-12 08:31:48,2024-02-11 08:31:48,Completed,ORG_173
+62812,Physics 101,Math,Intermediate,8,4,Isabella Smith,2024-02-01 08:31:48,,In Progress,ORG_174
+31509,World History,Science,Beginner,4,2,James Garcia,2023-12-06 08:31:48,2024-01-06 08:31:48,Completed,ORG_175
+54059,Physical Fitness,Humanities,Beginner,4,4,Emma Hernandez,2023-10-26 08:31:48,2023-12-17 08:31:48,Completed,ORG_176
+54661,English Literature,Math,Advanced,12,1,Sophia Martinez,2024-02-01 08:31:48,2024-04-20 08:31:48,Completed,ORG_177
+79423,Physical Fitness,Physical Education,Beginner,6,2,David Garcia,2024-09-09 08:31:48,,In Progress,ORG_178
+67119,Painting Techniques,Arts,Intermediate,4,4,Isabella Jones,2023-11-09 08:31:48,,Not Started,ORG_179
+58955,Physics 101,Arts,Advanced,,4,Robert Williams,2024-09-18 08:31:48,,In Progress,ORG_180
+31514,World History,Humanities,Beginner,12,2,Ava Miller,2023-10-09 08:31:48,,Not Started,ORG_181
+55919,Physical Fitness,,Intermediate,8,4,Ava Johnson,2024-02-16 08:31:48,,Not Started,ORG_182
+31384,,Physical Education,Intermediate,4,3,David Martinez,2024-05-08 08:31:48,2024-07-08 08:31:48,Completed,ORG_183
+91902,World History,Music,Beginner,6,3,James Williams,2024-03-05 08:31:48,2024-05-24 08:31:48,Completed,ORG_184
+72088,World History,Science,Advanced,12,4,Emma Brown,2024-06-09 08:31:48,2024-07-12 08:31:48,Completed,ORG_185
+50262,Musical Theory,Arts,Advanced,8,2,James Davis,2024-04-05 08:31:48,2024-06-05 08:31:48,Completed,ORG_186
+30977,Musical Theory,Physical Education,Advanced,12,2,Michael Johnson,2024-08-10 08:31:48,2024-09-11 08:31:48,Completed,ORG_187
+53671,Physical Fitness,Music,Intermediate,6,1,Isabella Martinez,2023-12-23 08:31:48,,Not Started,ORG_188
+12281,Physical Fitness,Science,Advanced,6,3,Emma Garcia,2024-05-31 08:31:48,,Not Started,ORG_189
+97663,Physics 101,Science,Beginner,4,2,Sophia Garcia,2024-03-14 08:31:48,2024-05-08 08:31:48,Completed,ORG_190
+63472,Physics 101,Arts,Advanced,8,2,Mia Johnson,2023-12-28 08:31:48,,In Progress,ORG_191
+29409,Physics 101,Physical Education,Beginner,6,1,Sophia Brown,2024-09-02 08:31:48,,Not Started,ORG_192
+55455,World History,Arts,Beginner,8,2,David Martinez,2024-07-03 08:31:48,,Not Started,ORG_193
+79560,Musical Theory,Physical Education,Beginner,4,2,Sophia Martinez,2024-05-11 08:31:48,,In Progress,ORG_194
+38897,Mathematics Basics,Arts,Advanced,4,2,Sophia Smith,2024-02-13 08:31:48,,In Progress,ORG_195
+53281,Painting Techniques,Music,Beginner,6,3,,2024-07-14 08:31:48,,In Progress,ORG_196
+69297,Painting Techniques,Arts,Intermediate,12,,,2024-03-05 08:31:48,,In Progress,ORG_197
+88158,Musical Theory,Humanities,Beginner,12,1,Olivia Miller,2024-01-01 08:31:48,,In Progress,ORG_198
+30736,Physics 101,Humanities,Beginner,6,2,Mia Brown,2024-06-06 08:31:48,2024-08-06 08:31:48,Completed,ORG_199
+74641,Physical Fitness,Science,Intermediate,8,1,Olivia Martinez,2023-10-31 08:31:48,2023-12-16 08:31:48,Completed,ORG_200
+68032,Musical Theory,Science,Beginner,6,3,Michael Smith,2024-06-14 08:31:48,2024-09-02 08:31:48,Completed,ORG_201
+77101,,Humanities,Beginner,6,,Mia Garcia,2024-01-22 08:31:48,,In Progress,ORG_202
+31856,Musical Theory,Math,Advanced,4,1,Sophia Miller,2024-04-03 08:31:48,2024-06-04 08:31:48,Completed,ORG_203
+85989,Mathematics Basics,Music,Beginner,8,1,David Brown,2024-04-21 08:31:48,,Not Started,ORG_204
+97161,Physical Fitness,Humanities,Intermediate,8,2,Emma Williams,2024-08-07 08:31:48,,Not Started,ORG_205
+39652,Physics 101,Humanities,Beginner,8,1,Emma Brown,2023-10-08 08:31:48,,Not Started,ORG_206
+11025,Mathematics Basics,Arts,Intermediate,12,3,Ava Johnson,2024-08-06 08:31:48,,In Progress,ORG_207
+11108,Musical Theory,Humanities,Beginner,12,3,Ava Miller,2023-10-10 08:31:48,2023-12-22 08:31:48,Completed,ORG_208
+28401,Mathematics Basics,Science,Intermediate,6,1,Robert Davis,2024-04-19 08:31:48,,Not Started,ORG_209
+51630,Mathematics Basics,Arts,Intermediate,12,4,Michael Hernandez,2023-09-25 08:31:48,,Not Started,ORG_210
+83194,Mathematics Basics,Science,Beginner,12,3,Mia Martinez,2024-01-20 08:31:48,2024-04-13 08:31:48,Completed,ORG_211
+13370,World History,Music,Intermediate,4,2,Ava Garcia,2023-10-12 08:31:48,,Not Started,ORG_212
+53542,English Literature,Science,Advanced,12,3,William Jones,2023-11-03 08:31:48,2024-01-08 08:31:48,Completed,ORG_213
+35683,English Literature,Science,Intermediate,12,1,James Johnson,2024-05-07 08:31:48,,In Progress,ORG_214
+60410,English Literature,Physical Education,Beginner,12,3,William Smith,2024-08-11 08:31:48,2024-09-25 08:31:48,Completed,ORG_215
+28825,Physical Fitness,Math,Advanced,12,4,Ava Johnson,2024-05-25 08:31:48,,Not Started,ORG_216
+34970,Musical Theory,Arts,Beginner,6,4,Olivia Garcia,2024-05-21 08:31:48,2024-07-01 08:31:48,Completed,ORG_217
+17136,World History,Music,Intermediate,12,,Isabella Miller,2024-04-20 08:31:48,,Not Started,ORG_218
+94215,Physics 101,Humanities,Beginner,12,1,Ava Hernandez,2024-03-27 08:31:48,,In Progress,ORG_219
+31722,Musical Theory,Music,Beginner,4,2,Ava Johnson,2024-01-30 08:31:48,,Not Started,ORG_220
+88116,World History,Math,Intermediate,12,,Ava Williams,2024-02-08 08:31:48,,Not Started,ORG_221
+90051,Painting Techniques,Physical Education,Advanced,12,1,James Jones,2024-05-31 08:31:48,2024-08-14 08:31:48,Completed,ORG_222
+19589,Painting Techniques,Physical Education,Beginner,8,1,Mia Johnson,2023-09-21 08:31:48,2023-11-16 08:31:48,Completed,ORG_223
+97008,World History,Humanities,Intermediate,6,2,Robert Smith,,,In Progress,ORG_224
+57905,Physics 101,Arts,Beginner,8,4,David Johnson,2024-03-31 08:31:48,,Not Started,ORG_225
+69945,World History,Music,Beginner,12,,Sophia Martinez,2024-02-17 08:31:48,2024-05-02 08:31:48,Completed,ORG_226
+47589,Musical Theory,Science,Intermediate,12,4,Emma Brown,2024-04-01 08:31:48,2024-06-25 08:31:48,Completed,ORG_227
+78134,Physical Fitness,Science,Advanced,12,2,Emma Garcia,2024-05-28 08:31:48,2024-08-21 08:31:48,Completed,ORG_228
+22471,Musical Theory,Music,Advanced,6,3,Isabella Brown,2024-01-01 08:31:48,2024-02-06 08:31:48,Completed,ORG_229
+33327,Musical Theory,Science,Intermediate,12,2,John Martinez,2024-08-09 08:31:48,,Not Started,ORG_230
+93841,Musical Theory,Humanities,Intermediate,12,4,William Davis,2024-03-16 08:31:48,,Not Started,ORG_231
+69909,Musical Theory,Math,Beginner,8,,William Garcia,,,Not Started,ORG_232
+46699,Musical Theory,,Beginner,4,3,David Williams,2024-05-30 08:31:48,,Not Started,ORG_233
+16320,Physical Fitness,Physical Education,Advanced,,4,David Miller,2023-09-29 08:31:48,,In Progress,ORG_234
+20808,Physical Fitness,Music,Beginner,8,3,Robert Brown,2024-04-18 08:31:48,,In Progress,ORG_235
+61706,,Arts,Advanced,6,1,Mia Hernandez,,,In Progress,ORG_236
+58073,English Literature,Music,Advanced,8,2,Emma Williams,2023-10-25 08:31:48,,In Progress,ORG_237
+43479,Painting Techniques,Arts,Beginner,6,3,Isabella Davis,,,In Progress,ORG_238
+76802,World History,Science,Beginner,8,3,Michael Martinez,2023-10-17 08:31:48,2023-12-13 08:31:48,Completed,ORG_239
+93109,,Arts,Intermediate,8,2,Ava Smith,,,In Progress,ORG_240
+56015,Painting Techniques,Humanities,Intermediate,12,,,2024-05-26 08:31:48,,Not Started,ORG_241
+40495,World History,Science,Beginner,12,4,Ava Johnson,2024-08-31 08:31:48,,In Progress,ORG_242
+47152,Physical Fitness,Arts,Advanced,12,3,Olivia Johnson,2024-07-24 08:31:48,,Not Started,ORG_243
+77695,Painting Techniques,Math,Intermediate,4,4,John Smith,2024-07-29 08:31:48,2024-09-27 08:31:48,Completed,ORG_244
+12518,Musical Theory,Arts,Beginner,12,2,John Johnson,2023-09-27 08:31:48,,In Progress,ORG_245
+76826,,Science,Beginner,6,3,Sophia Johnson,2023-10-06 08:31:48,2023-11-09 08:31:48,Completed,ORG_246
+59857,Mathematics Basics,Physical Education,Beginner,8,3,Robert Williams,2024-04-16 08:31:48,2024-06-30 08:31:48,Completed,ORG_247
+72721,,Math,Advanced,6,2,Robert Miller,2023-12-30 08:31:48,2024-02-19 08:31:48,Completed,ORG_248
+82183,Physical Fitness,Science,Beginner,12,3,,2024-09-11 08:31:48,2024-10-16 08:31:48,Completed,ORG_249
+72503,Mathematics Basics,Science,Advanced,8,3,David Smith,2024-06-13 08:31:48,,In Progress,ORG_250
+20271,Mathematics Basics,Physical Education,Advanced,12,2,Mia Garcia,2024-03-31 08:31:48,,In Progress,ORG_251
+66634,Physics 101,Arts,Intermediate,4,1,Ava Davis,2024-02-14 08:31:48,,In Progress,ORG_252
+88895,Mathematics Basics,Science,Advanced,4,4,Michael Martinez,2024-07-21 08:31:48,,In Progress,ORG_253
+25144,English Literature,Humanities,Advanced,8,1,,2024-02-13 08:31:48,,In Progress,ORG_254
+87779,Painting Techniques,Humanities,Advanced,12,3,William Johnson,2023-11-11 08:31:48,,Completed,ORG_255
+65121,Physics 101,Music,Advanced,8,4,John Brown,2023-10-14 08:31:48,,Completed,ORG_256
+45304,English Literature,Math,Intermediate,12,1,Olivia Smith,2024-02-04 08:31:48,,Completed,ORG_257
+98211,Musical Theory,Science,Beginner,6,3,Mia Hernandez,2024-09-15 08:31:48,2024-12-04 08:31:48,Completed,ORG_258
+58848,Painting Techniques,Physical Education,Beginner,12,2,Michael Hernandez,2024-05-14 08:31:48,,Not Started,ORG_259
+69439,,Physical Education,Advanced,12,1,Sophia Martinez,2024-08-10 08:31:48,,Not Started,ORG_260
+31334,Physical Fitness,Humanities,Advanced,6,3,Michael Williams,2024-07-14 08:31:48,,In Progress,ORG_261
+20757,Painting Techniques,Music,Intermediate,6,4,Sophia Davis,2023-12-17 08:31:48,,In Progress,ORG_262
+21386,World History,Humanities,Intermediate,12,3,Mia Garcia,2024-02-10 08:31:48,2024-04-11 08:31:48,Completed,ORG_263
+66004,Physical Fitness,Physical Education,Beginner,8,2,Isabella Williams,2023-10-11 08:31:48,,Not Started,ORG_264
+93557,World History,Music,Advanced,4,1,,2024-06-09 08:31:48,2024-08-20 08:31:48,Completed,ORG_265
+58457,Physical Fitness,Physical Education,Beginner,12,1,David Hernandez,2023-09-20 08:31:48,,In Progress,ORG_266
+19250,World History,Physical Education,Intermediate,8,2,,2023-11-16 08:31:48,,In Progress,ORG_267
+34917,World History,Humanities,Advanced,8,3,Mia Johnson,2024-01-18 08:31:48,2024-03-22 08:31:48,Completed,ORG_268
+48816,Mathematics Basics,Physical Education,Intermediate,12,1,Mia Jones,2024-04-24 08:31:48,,In Progress,ORG_269
+11352,English Literature,Music,Beginner,8,,Michael Johnson,2024-01-14 08:31:48,,In Progress,ORG_270
+50670,Musical Theory,Science,Beginner,4,3,David Martinez,2023-12-06 08:31:48,2024-02-28 08:31:48,Completed,ORG_271
+47442,,,Intermediate,6,3,Emma Garcia,,2024-06-18 08:31:48,Completed,ORG_272
+14980,Painting Techniques,Music,Beginner,6,4,Emma Miller,2024-08-30 08:31:48,2024-11-17 08:31:48,Completed,ORG_273
+62609,Mathematics Basics,Humanities,Beginner,12,3,Michael Davis,2024-07-03 08:31:48,,In Progress,ORG_274
+83405,English Literature,Physical Education,Beginner,6,,Isabella Johnson,2024-06-05 08:31:48,2024-08-25 08:31:48,Completed,ORG_275
+24798,Physics 101,,Beginner,4,,,2024-02-21 08:31:48,,In Progress,ORG_276
+79770,Painting Techniques,Math,Beginner,8,1,Ava Martinez,2024-03-19 08:31:48,,In Progress,ORG_277
+24007,English Literature,Humanities,Intermediate,12,2,James Williams,2024-05-04 08:31:48,,Not Started,ORG_278
+23410,Physics 101,Physical Education,Advanced,8,,Sophia Smith,2024-05-12 08:31:48,,In Progress,ORG_279
+43812,Musical Theory,Math,Intermediate,12,3,James Brown,2024-01-16 08:31:48,2024-02-26 08:31:48,Completed,ORG_280
+10389,,Humanities,Intermediate,12,1,Isabella Miller,2023-12-10 08:31:48,,Not Started,ORG_281
+61595,Physics 101,Arts,Advanced,8,2,Robert Brown,2024-03-12 08:31:48,,Not Started,ORG_282
+41325,Physics 101,Arts,Advanced,4,1,William Smith,2024-01-07 08:31:48,,Not Started,ORG_283
+33090,,Music,Beginner,8,,James Jones,2023-11-14 08:31:48,2024-01-27 08:31:48,Completed,ORG_284
+48478,Physical Fitness,Humanities,Intermediate,6,4,William Hernandez,2024-07-18 08:31:48,,Not Started,ORG_285
+90336,Musical Theory,Physical Education,Beginner,12,2,David Hernandez,2023-12-18 08:31:48,,Not Started,ORG_286
+29959,Physics 101,Science,Intermediate,,4,Robert Brown,2023-11-30 08:31:48,,In Progress,ORG_287
+24826,Musical Theory,Physical Education,Advanced,4,3,James Hernandez,2024-02-03 08:31:48,,Not Started,ORG_288
+77167,World History,Arts,Beginner,6,,,2024-06-18 08:31:48,2024-08-29 08:31:48,Completed,ORG_289
+77261,English Literature,Humanities,Beginner,6,2,Michael Jones,2024-07-23 08:31:48,,Not Started,ORG_290
+13300,Physics 101,Humanities,Advanced,8,1,James Smith,2023-11-20 08:31:48,,Not Started,ORG_291
+15259,Painting Techniques,Arts,Beginner,8,,James Williams,2023-12-04 08:31:48,,Not Started,ORG_292
+49886,English Literature,Humanities,Intermediate,8,2,Olivia Hernandez,2024-06-18 08:31:48,,Not Started,ORG_293
+77140,Painting Techniques,Arts,Beginner,8,4,,2024-03-27 08:31:48,,Not Started,ORG_294
+93759,Painting Techniques,Music,Beginner,6,4,John Miller,2024-04-11 08:31:48,,Not Started,ORG_295
+88023,World History,Arts,Beginner,8,4,Mia Johnson,,,Not Started,ORG_296
+90816,Physics 101,Physical Education,Advanced,4,2,Sophia Smith,2024-07-14 08:31:48,2024-09-13 08:31:48,Completed,ORG_297
+63337,English Literature,Physical Education,Beginner,8,2,William Miller,2024-02-11 08:31:48,2024-04-21 08:31:48,Completed,ORG_298
+93723,Physics 101,Math,Advanced,4,4,David Smith,2023-10-24 08:31:48,,In Progress,ORG_299
+14975,Painting Techniques,Science,Beginner,6,2,Emma Smith,2024-02-02 08:31:48,2024-04-28 08:31:48,Completed,ORG_300
+16388,Painting Techniques,,Advanced,8,1,Michael Hernandez,2024-04-25 08:31:48,2024-05-28 08:31:48,Completed,ORG_301
+13572,Physical Fitness,Music,Intermediate,8,2,Mia Hernandez,2023-11-27 08:31:48,,In Progress,ORG_302
+66465,Painting Techniques,Math,Intermediate,4,3,Olivia Smith,2024-04-01 08:31:48,2024-06-01 08:31:48,Completed,ORG_303
+83504,Mathematics Basics,Music,Advanced,12,3,David Garcia,2023-11-18 08:31:48,,In Progress,ORG_304
+65680,Physical Fitness,Humanities,Advanced,8,2,Emma Johnson,2024-09-02 08:31:48,,In Progress,ORG_305
+85431,Physical Fitness,Math,Advanced,,2,Michael Smith,2023-10-24 08:31:48,2023-12-15 08:31:48,Completed,ORG_306
+15581,Mathematics Basics,Science,Advanced,4,3,Isabella Miller,2024-07-30 08:31:48,2024-10-12 08:31:48,Completed,ORG_307
+87705,World History,Physical Education,Beginner,6,3,Mia Johnson,2024-01-13 08:31:48,,Not Started,ORG_308
+77082,World History,Science,Beginner,4,4,Michael Miller,2024-08-01 08:31:48,2024-10-02 08:31:48,Completed,ORG_309
+64441,Musical Theory,Humanities,Advanced,8,4,John Martinez,2024-05-28 08:31:48,,In Progress,ORG_310
+60952,Physical Fitness,Math,Beginner,8,1,Emma Jones,2024-02-27 08:31:48,2024-05-17 08:31:48,Completed,ORG_311
+20207,Physics 101,Math,Advanced,6,4,James Williams,2024-06-09 08:31:48,2024-08-30 08:31:48,Completed,ORG_312
+69845,Musical Theory,Music,Intermediate,6,3,Ava Garcia,2023-12-24 08:31:48,,Completed,ORG_313
+31004,Musical Theory,Science,Intermediate,4,3,Mia Garcia,2023-11-24 08:31:48,,In Progress,ORG_314
+43887,World History,Music,Intermediate,6,4,James Johnson,2024-08-26 08:31:48,,Not Started,ORG_315
+40390,Physical Fitness,Arts,Advanced,,1,Olivia Williams,2024-05-17 08:31:48,,Not Started,ORG_316
+65560,World History,Math,Intermediate,4,3,Emma Smith,2023-12-28 08:31:48,,In Progress,ORG_317
+40978,Physics 101,Physical Education,Beginner,6,4,Robert Hernandez,2024-02-22 08:31:48,,In Progress,ORG_318
+97330,Mathematics Basics,Humanities,Beginner,,1,John Davis,2023-09-21 08:31:48,2023-11-29 08:31:48,Completed,ORG_319
+61253,Musical Theory,Science,Advanced,8,2,Isabella Smith,2023-10-08 08:31:48,,Not Started,ORG_320
+28138,Physics 101,Humanities,Advanced,4,4,William Williams,2024-06-28 08:31:48,2024-09-10 08:31:48,Completed,ORG_321
+56153,Mathematics Basics,Music,Intermediate,12,1,Robert Garcia,2023-12-24 08:31:48,,Not Started,ORG_322
+39182,,Science,Advanced,4,1,Isabella Brown,2024-02-23 08:31:48,,In Progress,ORG_323
+64659,Mathematics Basics,Science,Beginner,6,3,James Smith,2023-12-21 08:31:48,2024-02-23 08:31:48,Completed,ORG_324
+70724,Painting Techniques,Arts,Advanced,8,1,Michael Smith,2024-08-11 08:31:48,,Not Started,ORG_325
+49305,Musical Theory,Humanities,Beginner,12,2,John Williams,2024-04-11 08:31:48,2024-05-19 08:31:48,Completed,ORG_326
+90066,Musical Theory,Music,Beginner,6,2,Emma Martinez,,,Not Started,ORG_327
+58236,Mathematics Basics,Science,Advanced,12,2,David Johnson,2024-05-25 08:31:48,,In Progress,ORG_328
+94087,Mathematics Basics,Arts,Advanced,12,1,John Garcia,2024-03-21 08:31:48,2024-06-02 08:31:48,Completed,ORG_329
+89567,Mathematics Basics,Math,Beginner,8,4,David Brown,2023-11-24 08:31:48,,In Progress,ORG_330
+45410,Physics 101,Math,Advanced,8,,David Brown,2023-11-16 08:31:48,,Not Started,ORG_331
+96715,Physics 101,Music,Intermediate,12,2,Isabella Miller,2024-08-01 08:31:48,2024-10-27 08:31:48,Completed,ORG_332
+44832,Physics 101,Music,Advanced,6,1,Michael Garcia,2024-02-22 08:31:48,,Not Started,ORG_333
+97457,World History,Humanities,Advanced,8,,John Martinez,2024-09-15 08:31:48,,Not Started,ORG_334
+92797,Painting Techniques,Science,Intermediate,12,4,William Brown,2024-02-18 08:31:48,,Not Started,ORG_335
+79242,Musical Theory,Physical Education,Intermediate,4,3,Michael Brown,2023-11-09 08:31:48,,Not Started,ORG_336
+84461,Painting Techniques,Science,Beginner,4,3,Michael Martinez,2024-07-16 08:31:48,,Not Started,ORG_337
+33198,Painting Techniques,Arts,Advanced,6,1,Emma Williams,2024-08-15 08:31:48,2024-10-25 08:31:48,Completed,ORG_338
+65641,English Literature,Science,Beginner,8,1,Mia Martinez,2023-11-24 08:31:48,,Not Started,ORG_339
+92795,English Literature,Math,Intermediate,4,3,Isabella Miller,2024-03-26 08:31:48,,Not Started,ORG_340
+85294,World History,Physical Education,Beginner,6,3,Michael Hernandez,2024-03-17 08:31:48,,Not Started,ORG_341
+14427,World History,Arts,Intermediate,8,1,Olivia Miller,2024-03-17 08:31:48,,Not Started,ORG_342
+13708,Painting Techniques,Physical Education,Advanced,6,3,David Davis,2024-05-31 08:31:48,2024-08-18 08:31:48,Completed,ORG_343
+52469,Mathematics Basics,Music,Beginner,4,3,Sophia Williams,2023-10-18 08:31:48,,Not Started,ORG_344
+37821,Physics 101,Arts,Beginner,6,1,Robert Garcia,2024-03-14 08:31:48,,Not Started,ORG_345
+39021,World History,Humanities,Beginner,12,,William Johnson,2023-09-25 08:31:48,,Not Started,ORG_346
+97247,Musical Theory,Music,Intermediate,4,1,Mia Williams,2024-01-10 08:31:48,,In Progress,ORG_347
+48820,Mathematics Basics,Music,Advanced,12,3,Michael Jones,2024-03-20 08:31:48,,In Progress,ORG_348
+44583,,Humanities,Beginner,4,,David Jones,2024-07-29 08:31:48,,In Progress,ORG_349
+66722,,Music,Intermediate,12,3,John Davis,2024-01-05 08:31:48,,In Progress,ORG_350
+51977,Mathematics Basics,Science,Intermediate,12,3,Emma Williams,2024-05-13 08:31:48,2024-07-04 08:31:48,Completed,ORG_351
+44278,Painting Techniques,Physical Education,Beginner,4,1,Ava Miller,2024-04-03 08:31:48,2024-06-11 08:31:48,Completed,ORG_352
+98049,Physics 101,Math,Advanced,8,2,Robert Hernandez,2024-01-30 08:31:48,,Not Started,ORG_353
+42118,Mathematics Basics,Math,Advanced,12,1,Sophia Davis,2024-03-29 08:31:48,,Not Started,ORG_354
+24342,,Physical Education,Advanced,6,1,Olivia Miller,2023-11-30 08:31:48,2024-02-01 08:31:48,Completed,ORG_355
+98302,Physical Fitness,Physical Education,Beginner,4,1,Ava Smith,2024-06-11 08:31:48,,In Progress,ORG_356
+62390,World History,Arts,Intermediate,6,1,Robert Johnson,2024-05-23 08:31:48,2024-08-05 08:31:48,Completed,ORG_357
+66795,Mathematics Basics,Arts,Beginner,8,1,Emma Johnson,2024-09-12 08:31:48,,Not Started,ORG_358
+73621,Physics 101,Music,Beginner,4,1,John Hernandez,,,Not Started,ORG_359
+99360,Physics 101,Arts,Advanced,6,2,Sophia Smith,2023-10-11 08:31:48,,In Progress,ORG_360
+35603,Physics 101,Arts,Advanced,12,4,Sophia Hernandez,2024-01-03 08:31:48,,Not Started,ORG_361
+50492,Mathematics Basics,Music,Beginner,4,4,William Martinez,2024-06-01 08:31:48,,Not Started,ORG_362
+68023,Physics 101,Humanities,Intermediate,4,3,Michael Martinez,2024-04-28 08:31:48,2024-06-12 08:31:48,Completed,ORG_363
+11171,English Literature,Physical Education,Advanced,,2,Michael Jones,2023-12-23 08:31:48,2024-03-21 08:31:48,Completed,ORG_364
+14594,,Music,Advanced,8,4,Mia Williams,2024-04-25 08:31:48,,In Progress,ORG_365
+56383,Physics 101,Math,Intermediate,8,2,Emma Hernandez,2024-08-04 08:31:48,,Not Started,ORG_366
+72732,Painting Techniques,Math,Intermediate,8,3,William Johnson,2024-08-01 08:31:48,2024-10-01 08:31:48,Completed,ORG_367
+43393,English Literature,Humanities,Advanced,8,1,Michael Smith,2023-12-17 08:31:48,,Not Started,ORG_368
+64934,Mathematics Basics,Science,Beginner,4,3,Sophia Brown,2024-01-03 08:31:48,,In Progress,ORG_369
+94350,World History,Physical Education,Beginner,6,3,Mia Smith,2024-01-10 08:31:48,,Not Started,ORG_370
+73026,Painting Techniques,Arts,Advanced,6,4,John Martinez,2024-01-23 08:31:48,,Not Started,ORG_371
+50942,Physics 101,Music,Advanced,4,2,John Brown,2024-07-27 08:31:48,,In Progress,ORG_372
+46591,World History,Math,Advanced,4,2,James Davis,2024-05-07 08:31:48,,In Progress,ORG_373
+81863,English Literature,Science,Beginner,6,4,James Davis,2023-10-10 08:31:48,,In Progress,ORG_374
+81070,Mathematics Basics,Physical Education,Advanced,4,4,Olivia Williams,,2024-08-19 08:31:48,Completed,ORG_375
+97592,,Science,Intermediate,6,1,Mia Davis,2024-06-18 08:31:48,,Not Started,ORG_376
+92183,Physical Fitness,Math,Intermediate,6,1,Sophia Smith,2024-08-06 08:31:48,2024-10-05 08:31:48,Completed,ORG_377
+59032,English Literature,Arts,Beginner,12,2,Isabella Garcia,2024-08-17 08:31:48,2024-10-04 08:31:48,Completed,ORG_378
+68514,English Literature,Science,Beginner,4,,,2024-06-26 08:31:48,,Not Started,ORG_379
+70117,World History,Math,Intermediate,6,3,Michael Williams,2024-01-06 08:31:48,,In Progress,ORG_380
+15228,Physical Fitness,Science,Intermediate,12,3,David Davis,2024-03-09 08:31:48,,Not Started,ORG_381
+33536,Physical Fitness,,Intermediate,8,1,William Williams,2024-02-29 08:31:48,2024-05-02 08:31:48,Completed,ORG_382
+43454,English Literature,Music,Intermediate,12,1,Robert Hernandez,2023-10-26 08:31:48,,In Progress,ORG_383
+32475,Physics 101,Physical Education,Advanced,12,2,David Martinez,2023-09-28 08:31:48,2023-11-29 08:31:48,Completed,ORG_384
+90833,World History,Humanities,Intermediate,6,4,David Brown,2024-01-22 08:31:48,2024-04-14 08:31:48,Completed,ORG_385
+16394,,Music,Advanced,4,3,Emma Garcia,2023-12-07 08:31:48,2024-01-11 08:31:48,Completed,ORG_386
+10732,Mathematics Basics,Arts,Beginner,12,4,,2024-08-03 08:31:48,,In Progress,ORG_387
+80944,Painting Techniques,Humanities,Advanced,6,3,Ava Martinez,2024-07-30 08:31:48,,In Progress,ORG_388
+31562,Painting Techniques,Music,Intermediate,4,2,John Davis,2023-10-27 08:31:48,,In Progress,ORG_389
+62548,Musical Theory,Physical Education,Advanced,4,1,Mia Hernandez,2023-11-15 08:31:48,,In Progress,ORG_390
+19961,Musical Theory,Music,Intermediate,4,3,David Brown,2024-04-30 08:31:48,,In Progress,ORG_391
+90433,Painting Techniques,,Beginner,8,3,William Miller,2024-02-14 08:31:48,2024-05-01 08:31:48,Completed,ORG_392
+67364,Physical Fitness,Arts,Intermediate,4,2,Ava Smith,,,In Progress,ORG_393
+30012,English Literature,Science,Beginner,4,2,Ava Smith,2023-12-01 08:31:48,2024-02-03 08:31:48,Completed,ORG_394
+73044,Musical Theory,Arts,Beginner,4,1,James Brown,2024-08-21 08:31:48,,In Progress,ORG_395
+22484,Mathematics Basics,Music,Beginner,6,1,Mia Hernandez,2023-10-10 08:31:48,,In Progress,ORG_396
+34325,Painting Techniques,Science,Beginner,12,2,David Smith,2024-03-23 08:31:48,,In Progress,ORG_397
+32278,Musical Theory,Music,Intermediate,6,2,John Martinez,2023-10-23 08:31:48,2024-01-21 08:31:48,Completed,ORG_398
+55421,English Literature,Music,Beginner,8,4,Isabella Brown,2024-05-31 08:31:48,,Not Started,ORG_399
+30176,World History,Science,Advanced,6,1,John Williams,2024-03-14 08:31:48,,In Progress,ORG_400
+51150,Mathematics Basics,Physical Education,Beginner,12,2,James Williams,2024-04-27 08:31:48,,Not Started,ORG_401
+82263,,Science,Intermediate,12,1,Ava Davis,2024-05-26 08:31:48,,In Progress,ORG_402
+74730,World History,Music,Advanced,6,3,Sophia Davis,2023-12-19 08:31:48,,In Progress,ORG_403
+80677,Painting Techniques,Science,Beginner,6,1,Robert Garcia,2024-09-18 08:31:48,,Not Started,ORG_404
+51137,World History,Physical Education,Intermediate,6,2,Michael Johnson,2023-11-18 08:31:48,,In Progress,ORG_405
+45179,Physical Fitness,Physical Education,Advanced,6,2,Isabella Miller,2024-08-17 08:31:48,2024-09-21 08:31:48,Completed,ORG_406
+77004,Physical Fitness,Math,Intermediate,,3,Robert Brown,2024-07-11 08:31:48,,In Progress,ORG_407
+77705,Physical Fitness,Science,Intermediate,12,2,,2024-01-30 08:31:48,2024-04-18 08:31:48,Completed,ORG_408
+72183,Painting Techniques,Math,Beginner,12,2,Michael Johnson,2024-09-01 08:31:48,,In Progress,ORG_409
+18012,World History,Science,Intermediate,8,4,Michael Smith,2024-04-24 08:31:48,,In Progress,ORG_410
+30896,Physical Fitness,Physical Education,Intermediate,8,1,Mia Smith,2024-01-19 08:31:48,,In Progress,ORG_411
+83409,Physical Fitness,Science,Intermediate,4,1,Olivia Brown,2024-02-21 08:31:48,,In Progress,ORG_412
+89493,World History,Humanities,Beginner,12,1,Ava Miller,2024-06-14 08:31:48,,In Progress,ORG_413
+55025,World History,Arts,Advanced,12,1,David Martinez,2024-04-17 08:31:48,2024-06-07 08:31:48,Completed,ORG_414
+92729,Mathematics Basics,Physical Education,Intermediate,4,2,Isabella Hernandez,2023-12-24 08:31:48,,Not Started,ORG_415
+49989,English Literature,Physical Education,Advanced,,3,James Johnson,2024-03-06 08:31:48,2024-04-11 08:31:48,Completed,ORG_416
+66081,World History,Music,Intermediate,8,1,William Miller,2024-05-25 08:31:48,,In Progress,ORG_417
+52250,Painting Techniques,Music,Intermediate,4,3,Sophia Williams,2024-07-31 08:31:48,2024-10-28 08:31:48,Completed,ORG_418
+61701,Physical Fitness,Arts,Advanced,8,3,David Smith,2024-05-03 08:31:48,2024-06-25 08:31:48,Completed,ORG_419
+68615,Painting Techniques,Humanities,Beginner,6,3,Olivia Jones,2024-06-05 08:31:48,2024-08-31 08:31:48,Completed,ORG_420
+50447,,Humanities,Beginner,8,1,Sophia Miller,2024-03-07 08:31:48,,In Progress,ORG_421
+82366,English Literature,Arts,Intermediate,8,3,Isabella Davis,2024-01-03 08:31:48,,Not Started,ORG_422
+16989,English Literature,Arts,Beginner,8,4,Sophia Brown,2024-06-13 08:31:48,,In Progress,ORG_423
+46367,Musical Theory,Music,Advanced,8,4,Mia Williams,2024-06-20 08:31:48,,In Progress,ORG_424
+22556,Mathematics Basics,Math,Beginner,4,1,Sophia Williams,2024-07-08 08:31:48,,Not Started,ORG_425
+16860,Painting Techniques,Science,Beginner,6,4,Mia Garcia,2023-09-20 08:31:48,2023-10-20 08:31:48,Completed,ORG_426
+91485,English Literature,Music,Beginner,4,3,John Garcia,2023-11-13 08:31:48,2024-01-28 08:31:48,Completed,ORG_427
+66534,Mathematics Basics,Science,Intermediate,,2,Sophia Miller,2023-09-28 08:31:48,,Not Started,ORG_428
+97976,Painting Techniques,Arts,Advanced,12,3,Olivia Davis,2024-07-15 08:31:48,2024-09-22 08:31:48,Completed,ORG_429
+91740,Musical Theory,Math,Beginner,6,4,James Davis,2024-05-13 08:31:48,2024-06-29 08:31:48,Completed,ORG_430
+97850,English Literature,Music,Advanced,4,2,James Garcia,2023-12-04 08:31:48,,Not Started,ORG_431
+85659,Painting Techniques,Science,Beginner,6,3,Mia Williams,2024-06-23 08:31:48,2024-08-02 08:31:48,Completed,ORG_432
+26845,Physics 101,Arts,Advanced,6,3,John Williams,2024-03-14 08:31:48,,In Progress,ORG_433
+97004,Musical Theory,Music,Intermediate,6,4,,2023-12-21 08:31:48,,In Progress,ORG_434
+91149,Musical Theory,Music,Beginner,12,1,James Miller,2023-12-01 08:31:48,,In Progress,ORG_435
+67465,Mathematics Basics,Music,Beginner,8,,Emma Hernandez,2024-03-24 08:31:48,,Not Started,ORG_436
+81317,Musical Theory,Math,Intermediate,6,,Olivia Martinez,2024-03-22 08:31:48,2024-04-26 08:31:48,Completed,ORG_437
+16575,English Literature,Humanities,Advanced,8,1,Emma Jones,2024-03-20 08:31:48,,In Progress,ORG_438
+77502,World History,Arts,Advanced,4,,,2024-05-18 08:31:48,2024-07-19 08:31:48,Completed,ORG_439
+93330,Musical Theory,Science,Intermediate,4,1,,2023-11-15 08:31:48,,In Progress,ORG_440
+43991,Physical Fitness,Arts,Advanced,4,4,John Martinez,,2024-10-06 08:31:48,Completed,ORG_441
+79636,Musical Theory,Humanities,Intermediate,4,3,John Smith,2024-06-25 08:31:48,,In Progress,ORG_442
+96970,Painting Techniques,Science,Beginner,4,2,John Garcia,2024-01-31 08:31:48,,Not Started,ORG_443
+54057,English Literature,Music,Advanced,6,4,Sophia Davis,2023-11-14 08:31:48,,Not Started,ORG_444
+26386,Physical Fitness,Physical Education,Intermediate,8,2,Mia Jones,2024-05-23 08:31:48,,In Progress,ORG_445
+51984,Painting Techniques,Humanities,Advanced,6,1,John Johnson,2024-09-15 08:31:48,,Not Started,ORG_446
+81123,Painting Techniques,Music,Intermediate,6,1,John Martinez,2023-11-18 08:31:48,2024-01-21 08:31:48,Completed,ORG_447
+55274,Mathematics Basics,Science,Intermediate,8,1,James Miller,2024-02-05 08:31:48,2024-03-21 08:31:48,Completed,ORG_448
+55256,Physics 101,Humanities,Advanced,4,1,Mia Martinez,2024-03-28 08:31:48,,Not Started,ORG_449
+50867,English Literature,Physical Education,Intermediate,4,1,James Martinez,2024-01-14 08:31:48,,Not Started,ORG_450
+16792,World History,Music,Intermediate,12,2,William Davis,2024-01-12 08:31:48,,In Progress,ORG_451
+84643,Painting Techniques,Physical Education,Intermediate,4,4,Mia Miller,2023-12-30 08:31:48,,Not Started,ORG_452
+99556,Physics 101,Music,Intermediate,12,3,Olivia Johnson,2023-12-07 08:31:48,,Not Started,ORG_453
+99281,World History,Music,Advanced,12,2,David Johnson,2024-06-08 08:31:48,2024-08-31 08:31:48,Completed,ORG_454
+95481,Painting Techniques,Arts,Intermediate,4,1,William Miller,2024-02-23 08:31:48,,Not Started,ORG_455
+77355,Physical Fitness,Humanities,Advanced,12,3,Robert Hernandez,2024-09-12 08:31:48,,Not Started,ORG_456
+50474,World History,Math,Beginner,,4,John Jones,2024-08-20 08:31:48,,Not Started,ORG_457
+32261,Musical Theory,Music,Intermediate,12,1,Michael Brown,2023-11-03 08:31:48,,In Progress,ORG_458
+14528,Physical Fitness,Math,Advanced,8,1,Isabella Miller,2023-10-30 08:31:48,2024-01-21 08:31:48,Completed,ORG_459
+31962,Musical Theory,Humanities,Intermediate,12,2,Emma Miller,2024-01-01 08:31:48,,In Progress,ORG_460
+88775,Physics 101,Physical Education,Intermediate,12,,John Smith,2024-07-30 08:31:48,,Not Started,ORG_461
+89768,English Literature,Humanities,Advanced,8,2,William Miller,2024-03-09 08:31:48,,Not Started,ORG_462
+29674,Physical Fitness,Science,Beginner,12,1,Sophia Martinez,2024-04-09 08:31:48,,Not Started,ORG_463
+47285,English Literature,Physical Education,Intermediate,4,2,John Johnson,2024-06-19 08:31:48,,Not Started,ORG_464
+65276,Mathematics Basics,Math,Advanced,8,4,David Davis,2024-05-02 08:31:48,,Not Started,ORG_465
+61320,Painting Techniques,Music,Beginner,6,4,Mia Brown,2023-10-04 08:31:48,,In Progress,ORG_466
+76471,Musical Theory,Physical Education,Beginner,6,4,Sophia Williams,2024-07-17 08:31:48,2024-09-08 08:31:48,Completed,ORG_467
+39844,Painting Techniques,Science,Intermediate,8,3,Robert Martinez,2024-06-21 08:31:48,2024-08-14 08:31:48,Completed,ORG_468
+81643,,Arts,Beginner,6,3,John Williams,2024-03-12 08:31:48,2024-05-12 08:31:48,Completed,ORG_469
+95577,English Literature,Humanities,Intermediate,4,3,Sophia Jones,2024-04-09 08:31:48,,In Progress,ORG_470
+76054,Painting Techniques,Science,Advanced,4,1,Sophia Jones,2024-06-11 08:31:48,2024-09-01 08:31:48,Completed,ORG_471
+95542,Mathematics Basics,Physical Education,Intermediate,12,4,,2024-08-07 08:31:48,,In Progress,ORG_472
+33393,Musical Theory,Music,Advanced,6,,Isabella Miller,2024-06-23 08:31:48,,In Progress,ORG_473
+65151,Painting Techniques,Physical Education,Beginner,8,4,David Johnson,2024-06-26 08:31:48,2024-08-18 08:31:48,Completed,ORG_474
+70228,English Literature,Arts,Advanced,8,4,Mia Smith,2024-08-10 08:31:48,,In Progress,ORG_475
+88266,Musical Theory,Physical Education,Advanced,12,2,Ava Williams,2023-12-09 08:31:48,,Not Started,ORG_476
+65397,Musical Theory,Math,Intermediate,12,1,Ava Johnson,2023-12-04 08:31:48,2024-01-03 08:31:48,Completed,ORG_477
+61927,English Literature,Math,Advanced,4,4,William Martinez,2024-06-02 08:31:48,,Not Started,ORG_478
+53912,Painting Techniques,Physical Education,Intermediate,12,2,Olivia Johnson,2024-06-25 08:31:48,,Not Started,ORG_479
+25378,Painting Techniques,Science,Advanced,8,2,Olivia Williams,2023-10-17 08:31:48,2023-12-20 08:31:48,Completed,ORG_480
+45461,Physical Fitness,Music,Intermediate,6,,David Miller,2023-10-30 08:31:48,2023-12-08 08:31:48,Completed,ORG_481
+68710,Physics 101,Humanities,Advanced,6,3,John Davis,2024-07-12 08:31:48,,In Progress,ORG_482
+12611,Musical Theory,Humanities,Beginner,4,2,James Jones,2024-01-12 08:31:48,2024-02-25 08:31:48,Completed,ORG_483
+95131,World History,Physical Education,Beginner,8,2,Sophia Garcia,2024-04-02 08:31:48,2024-05-26 08:31:48,Completed,ORG_484
+10133,Physics 101,Arts,Intermediate,8,1,Michael Davis,2023-12-22 08:31:48,,In Progress,ORG_485
+78805,World History,Arts,Beginner,4,1,,2024-06-29 08:31:48,,In Progress,ORG_486
+96189,Mathematics Basics,Arts,Advanced,12,2,Olivia Miller,2023-12-07 08:31:48,2024-01-18 08:31:48,Completed,ORG_487
+67887,English Literature,Science,Beginner,8,4,Michael Hernandez,2024-01-29 08:31:48,,In Progress,ORG_488
+71635,Mathematics Basics,Humanities,Intermediate,8,2,Michael Davis,2024-07-15 08:31:48,,In Progress,ORG_489
+30096,World History,Music,Beginner,6,3,Sophia Garcia,2024-01-14 08:31:48,,In Progress,ORG_490
+38823,Painting Techniques,Physical Education,Advanced,8,1,Mia Jones,2024-07-13 08:31:48,,In Progress,ORG_491
+22833,Physics 101,Science,Beginner,12,,Isabella Johnson,2024-02-15 08:31:48,2024-03-19 08:31:48,Completed,ORG_492
+14940,Physical Fitness,Math,Advanced,8,3,John Williams,2023-09-23 08:31:48,,In Progress,ORG_493
+17959,Mathematics Basics,Humanities,Advanced,6,4,Ava Miller,2024-06-25 08:31:48,2024-09-01 08:31:48,Completed,ORG_494
+78612,Physics 101,Arts,Intermediate,4,1,,2023-12-31 08:31:48,,Not Started,ORG_495
+60271,,Science,Advanced,12,1,Mia Johnson,2024-03-13 08:31:48,,In Progress,ORG_496
+27747,Mathematics Basics,Math,Advanced,12,3,Sophia Jones,2024-04-05 08:31:48,2024-05-17 08:31:48,Completed,ORG_497
+16836,Painting Techniques,Math,Intermediate,4,3,William Davis,2024-07-25 08:31:48,2024-10-04 08:31:48,Completed,ORG_498
+91506,English Literature,Music,Beginner,4,3,Robert Smith,2024-09-02 08:31:48,,Not Started,ORG_499
+32378,English Literature,Physical Education,Intermediate,4,2,Mia Miller,2024-07-20 08:31:48,,In Progress,ORG_500
+86466,Musical Theory,Music,Advanced,8,4,Olivia Hernandez,2023-09-20 08:31:48,,In Progress,ORG_501
+41689,English Literature,Arts,Intermediate,12,4,William Hernandez,2023-10-09 08:31:48,2024-01-01 08:31:48,Completed,ORG_502
+86212,English Literature,Humanities,Beginner,6,2,Olivia Jones,2024-03-04 08:31:48,,Not Started,ORG_503
+41517,Musical Theory,Science,Advanced,12,1,John Johnson,2023-12-24 08:31:48,,In Progress,ORG_504
+13154,World History,Math,Intermediate,12,2,Sophia Garcia,2024-08-28 08:31:48,,In Progress,ORG_505
+78316,Physics 101,Humanities,Intermediate,6,4,,2024-03-06 08:31:48,,In Progress,ORG_506
+89157,English Literature,Music,Intermediate,6,,John Smith,2024-09-02 08:31:48,,In Progress,ORG_507
+90239,English Literature,Physical Education,Intermediate,4,3,William Williams,2024-06-23 08:31:48,,Not Started,ORG_508
+16460,Musical Theory,Music,Advanced,12,2,David Jones,2024-04-14 08:31:48,,In Progress,ORG_509
+49317,World History,Math,Beginner,6,2,Mia Hernandez,2024-02-02 08:31:48,,In Progress,ORG_510
+93017,World History,Arts,Advanced,4,1,Olivia Williams,2023-12-12 08:31:48,2024-03-11 08:31:48,Completed,ORG_511
+30423,World History,Humanities,Beginner,8,3,Ava Williams,2024-08-01 08:31:48,,In Progress,ORG_512
+87127,English Literature,Arts,Beginner,6,,John Williams,2024-02-15 08:31:48,2024-05-03 08:31:48,Completed,ORG_513
+27136,Physical Fitness,Science,Intermediate,4,2,David Davis,2024-08-15 08:31:48,,In Progress,ORG_514
+76113,World History,Science,Advanced,8,2,William Brown,2024-01-23 08:31:48,,Not Started,ORG_515
+59441,English Literature,Humanities,Beginner,12,3,Sophia Miller,2023-12-12 08:31:48,,In Progress,ORG_516
+73365,Musical Theory,Arts,Beginner,6,,James Hernandez,2024-08-19 08:31:48,2024-09-29 08:31:48,Completed,ORG_517
+11679,English Literature,,Intermediate,8,3,Ava Johnson,2023-12-23 08:31:48,,In Progress,ORG_518
+94735,World History,Humanities,Advanced,8,2,Mia Johnson,2024-05-18 08:31:48,,Not Started,ORG_519
+39745,English Literature,Music,Beginner,6,2,John Miller,2024-02-25 08:31:48,2024-04-10 08:31:48,Completed,ORG_520
+73470,World History,Math,Advanced,8,1,Emma Williams,2024-04-30 08:31:48,2024-07-15 08:31:48,Completed,ORG_521
+84097,Mathematics Basics,Physical Education,Beginner,8,2,Sophia Davis,2024-06-21 08:31:48,,Not Started,ORG_522
+44394,Physical Fitness,Arts,Intermediate,6,,Michael Martinez,2023-10-31 08:31:48,,Not Started,ORG_523
+31793,Physical Fitness,Music,Intermediate,4,2,Isabella Smith,2024-02-24 08:31:48,,In Progress,ORG_524
+48496,Mathematics Basics,Humanities,Advanced,4,1,Mia Brown,2023-12-16 08:31:48,2024-02-25 08:31:48,Completed,ORG_525
+83951,Physical Fitness,Arts,Advanced,8,2,Isabella Williams,2024-01-16 08:31:48,2024-03-17 08:31:48,Completed,ORG_526
+10339,Physics 101,Physical Education,Beginner,6,2,Sophia Martinez,2023-12-11 08:31:48,,In Progress,ORG_527
+19695,Mathematics Basics,Humanities,Beginner,4,3,Isabella Smith,2024-05-28 08:31:48,,Not Started,ORG_528
+32082,Musical Theory,Arts,Intermediate,8,2,Michael Garcia,2023-12-09 08:31:48,,Not Started,ORG_529
+71965,Mathematics Basics,Humanities,Intermediate,8,1,John Johnson,2024-08-18 08:31:48,,In Progress,ORG_530
+48460,Mathematics Basics,Physical Education,Intermediate,12,,John Smith,2024-03-25 08:31:48,,In Progress,ORG_531
+91433,Mathematics Basics,Science,Advanced,6,1,Isabella Jones,2024-06-14 08:31:48,,Not Started,ORG_532
+69552,Painting Techniques,Music,Advanced,4,2,Isabella Johnson,2024-05-31 08:31:48,,In Progress,ORG_533
+58110,Musical Theory,Physical Education,Intermediate,8,4,James Miller,2023-11-24 08:31:48,2024-01-15 08:31:48,Completed,ORG_534
+20859,Painting Techniques,Humanities,Beginner,12,2,Isabella Williams,2023-10-17 08:31:48,2023-11-27 08:31:48,Completed,ORG_535
+95886,Painting Techniques,Science,Intermediate,8,1,John Davis,2023-09-30 08:31:48,2023-12-27 08:31:48,Completed,ORG_536
+20734,Mathematics Basics,Science,Beginner,12,3,,2024-02-16 08:31:48,,In Progress,ORG_537
+72569,World History,Math,Intermediate,8,3,David Davis,2024-04-08 08:31:48,,Not Started,ORG_538
+33433,Musical Theory,Physical Education,Beginner,4,,Ava Martinez,2024-02-13 08:31:48,2024-04-04 08:31:48,Completed,ORG_539
+51668,Painting Techniques,Science,Beginner,4,2,Robert Miller,2024-04-23 08:31:48,2024-06-29 08:31:48,Completed,ORG_540
+51554,English Literature,Math,Beginner,6,1,Michael Martinez,2024-02-01 08:31:48,,Not Started,ORG_541
+59047,English Literature,Science,Advanced,8,2,James Jones,2023-11-29 08:31:48,,In Progress,ORG_542
+18989,Painting Techniques,Music,Beginner,8,1,John Garcia,2024-06-29 08:31:48,2024-08-31 08:31:48,Completed,ORG_543
+19241,Mathematics Basics,Humanities,Beginner,8,1,John Williams,2024-06-10 08:31:48,2024-07-27 08:31:48,Completed,ORG_544
+28799,World History,Arts,Advanced,6,4,Olivia Davis,2024-09-13 08:31:48,,In Progress,ORG_545
+41852,World History,Science,Beginner,6,3,Isabella Miller,2024-01-11 08:31:48,2024-03-20 08:31:48,Completed,ORG_546
+38548,English Literature,Math,Advanced,4,2,Olivia Miller,2024-09-09 08:31:48,,Not Started,ORG_547
+36377,Mathematics Basics,Math,Beginner,4,1,Robert Johnson,2023-11-08 08:31:48,2024-01-17 08:31:48,Completed,ORG_548
+66537,Physics 101,Music,Advanced,8,,Isabella Garcia,,,Not Started,ORG_549
+42524,Musical Theory,Science,Advanced,12,2,Mia Davis,2023-11-23 08:31:48,,In Progress,ORG_550
+17262,Physics 101,Humanities,Intermediate,8,2,Robert Martinez,2024-09-11 08:31:48,,Not Started,ORG_551
+16823,Physical Fitness,Science,Intermediate,6,2,James Williams,2024-02-13 08:31:48,,Not Started,ORG_552
+74801,Painting Techniques,Arts,Beginner,6,,Michael Garcia,2024-08-03 08:31:48,,In Progress,ORG_553
+14634,Physics 101,Arts,Advanced,4,3,Mia Jones,2024-02-15 08:31:48,2024-04-02 08:31:48,Completed,ORG_554
+35400,English Literature,Physical Education,Intermediate,12,,Ava Davis,2024-03-17 08:31:48,,Not Started,ORG_555
+13711,,Physical Education,Advanced,8,1,,2023-10-05 08:31:48,,Not Started,ORG_556
+74715,Musical Theory,Physical Education,Intermediate,12,4,Michael Davis,2024-08-28 08:31:48,,In Progress,ORG_557
+50102,Painting Techniques,Physical Education,Intermediate,6,4,Emma Miller,2024-05-13 08:31:48,,In Progress,ORG_558
+16671,Painting Techniques,Arts,Beginner,4,3,Olivia Williams,2024-03-20 08:31:48,,Not Started,ORG_559
+20068,Musical Theory,Math,Advanced,8,2,Olivia Hernandez,2024-03-17 08:31:48,2024-06-11 08:31:48,Completed,ORG_560
+13218,Painting Techniques,Physical Education,Advanced,12,1,Olivia Johnson,2023-09-21 08:31:48,,In Progress,ORG_561
+77561,,Arts,Beginner,12,1,David Brown,2024-04-15 08:31:48,,In Progress,ORG_562
+25089,English Literature,Arts,Advanced,6,3,Emma Davis,2024-08-07 08:31:48,,Not Started,ORG_563
+35708,English Literature,Math,Beginner,6,,Olivia Jones,2024-01-21 08:31:48,,In Progress,ORG_564
+14800,Physics 101,Math,Intermediate,12,3,Ava Miller,2023-11-08 08:31:48,,In Progress,ORG_565
+42572,Musical Theory,Science,Advanced,,4,,2024-07-25 08:31:48,,In Progress,ORG_566
+34590,Physics 101,Arts,Intermediate,4,2,Olivia Miller,2024-05-09 08:31:48,2024-08-02 08:31:48,Completed,ORG_567
+52200,Musical Theory,Arts,Intermediate,12,3,David Johnson,2023-12-15 08:31:48,2024-02-15 08:31:48,Completed,ORG_568
+67692,World History,Arts,Beginner,8,1,James Martinez,2023-11-08 08:31:48,,Not Started,ORG_569
+95877,Physical Fitness,Humanities,Advanced,6,3,Mia Davis,2023-12-28 08:31:48,,In Progress,ORG_570
+27634,Physics 101,Humanities,Beginner,8,1,Ava Brown,2023-09-23 08:31:48,,In Progress,ORG_571
+30652,Musical Theory,Math,Intermediate,4,2,Olivia Williams,2024-02-22 08:31:48,,Not Started,ORG_572
+37561,Musical Theory,Humanities,Intermediate,8,1,Sophia Smith,2023-12-09 08:31:48,,In Progress,ORG_573
+73427,Physics 101,Science,Beginner,8,2,Ava Davis,2023-09-23 08:31:48,,Not Started,ORG_574
+63117,English Literature,Arts,Advanced,6,,David Davis,2024-02-26 08:31:48,,In Progress,ORG_575
+33727,Physical Fitness,Math,Intermediate,,2,Robert Smith,2023-12-04 08:31:48,,In Progress,ORG_576
+88636,Mathematics Basics,Physical Education,Beginner,4,3,Michael Brown,2024-02-08 08:31:48,2024-04-09 08:31:48,Completed,ORG_577
+96064,English Literature,Science,Advanced,4,,James Garcia,2024-09-01 08:31:48,,Completed,ORG_578
+87716,World History,Music,Beginner,8,3,Robert Martinez,2023-11-22 08:31:48,2023-12-24 08:31:48,Completed,ORG_579
+18150,English Literature,Arts,Beginner,8,4,Isabella Johnson,2024-09-09 08:31:48,2024-11-01 08:31:48,Completed,ORG_580
+60706,Physics 101,Math,Beginner,8,,Sophia Hernandez,2024-08-30 08:31:48,2024-09-29 08:31:48,Completed,ORG_581
+18175,World History,Math,Intermediate,4,1,David Davis,2024-03-12 08:31:48,,In Progress,ORG_582
+59581,Mathematics Basics,Physical Education,Intermediate,6,1,Mia Hernandez,2024-06-04 08:31:48,,Not Started,ORG_583
+60341,Physical Fitness,Physical Education,Beginner,12,3,Ava Williams,,,Not Started,ORG_584
+98259,Painting Techniques,Physical Education,Intermediate,4,2,William Brown,2024-08-30 08:31:48,2024-11-12 08:31:48,Completed,ORG_585
+79544,World History,Humanities,Beginner,4,3,William Jones,2023-12-17 08:31:48,,In Progress,ORG_586
+93661,Physical Fitness,Math,Advanced,12,1,John Hernandez,2024-07-13 08:31:48,,Not Started,ORG_587
+48969,Physics 101,Physical Education,Advanced,6,1,Michael Jones,2023-12-01 08:31:48,,In Progress,ORG_588
+15825,Painting Techniques,Music,Advanced,6,,Isabella Davis,2024-06-05 08:31:48,2024-07-10 08:31:48,Completed,ORG_589
+93171,English Literature,Science,Advanced,4,3,William Smith,2024-06-14 08:31:48,2024-09-06 08:31:48,Completed,ORG_590
+20199,Physical Fitness,Arts,Beginner,4,2,Ava Brown,2024-04-13 08:31:48,,Not Started,ORG_591
+86897,World History,Arts,Intermediate,6,2,Michael Martinez,2024-05-10 08:31:48,,Not Started,ORG_592
+81357,English Literature,Science,Advanced,12,4,Emma Smith,2024-07-06 08:31:48,,In Progress,ORG_593
+59554,Physical Fitness,Music,Beginner,8,1,Olivia Hernandez,2024-03-20 08:31:48,,In Progress,ORG_594
+43216,Musical Theory,Arts,Intermediate,4,2,David Jones,2024-09-17 08:31:48,2024-11-22 08:31:48,Completed,ORG_595
+29325,Painting Techniques,Physical Education,Advanced,8,1,,2024-04-27 08:31:48,,Not Started,ORG_596
+17951,Musical Theory,Science,Advanced,6,2,Ava Johnson,2024-06-14 08:31:48,,Not Started,ORG_597
+85589,English Literature,Physical Education,Intermediate,12,3,Emma Davis,2023-11-29 08:31:48,,In Progress,ORG_598
+28669,English Literature,Science,Intermediate,6,,Robert Smith,2023-10-15 08:31:48,2023-11-16 08:31:48,Completed,ORG_599
