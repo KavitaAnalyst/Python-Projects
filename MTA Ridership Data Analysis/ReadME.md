@@ -16,11 +16,10 @@ The data highlights the impact of a global event (the COVID-19 pandemic) on publ
 4) **Bridges and Tunnels Traffic:** Unlike public transport, bridges and tunnels maintained a relatively higher traffic level in 2020, possibly due to increased use of personal vehicles during the pandemic.
 5) **Staten Island Railway:** The trend reflects patterns similar to other railway services, with a significant drop in 2020 and consistent growth in subsequent years.
 ## Recommendations:
-**Resilience Planning:**
-
+1) **Resilience Planning:**
 Public transport authorities can use these insights to develop better strategies for dealing with similar disruptions in the future. Enhancing flexibility in operations and services can help maintain higher service levels during crises.
-**Investment in Public Trust and Safety:**
+2) **Investment in Public Trust and Safety:**
 Efforts to improve safety measures, hygiene standards, and public confidence in public transit should continue. This can ensure ridership continues to increase, even during potential future health concerns.
-**Diversification and Infrastructure Improvements:**
+3) **Diversification and Infrastructure Improvements:**
 Investing in robust infrastructure for both public transit and alternative transportation (such as cycling and electric vehicles) may help sustain traffic flow without over-relying on any single mode of transport.
 
