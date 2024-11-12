@@ -1,7 +1,7 @@
 This is a Data Analysis Challenge Hosted by Maven Analytics.
 This project consits of dataset  that represent the rise and decline in the Riderships of each transport medium during pre pandamic, pandameic and post pandemic times.
 **Gitbook**
-Gitbook (https://app.gitbook.com/invite/gKIcr3RujyLr1HlbilAc/dZAg0T1GxWfUfCazyx3v)
+Gitbook (https://app.gitbook.com/o/gKIcr3RujyLr1HlbilAc/s/Fbu7V2nlSOZwavnn4DjA/)
 
 ## Data Context 
 This dataset is classified as historic transportation data that has been collected over the timespan of 2020 - 2024, covering various transport services in teh metropolitan areas.It falls under time series
